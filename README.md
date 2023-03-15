@@ -1,0 +1,2 @@
+# ESEEDS-An-Automated-Agricultural-Seed-Vending-Machine
+This project is developed by Martin Lawrence M. Caringal for the fulfillment of the requirements of Bachelor of Science in Information Technology. This project is compose of both hardware and sofware interface. It utilize the principles of Internet of Things or IoT. In sofware we have web server vanilla php for the admin user interface to manage and motinor the vending machine and for the hardware it utilized the microcontroller arduino mega with its Ethernet shield. It is develop year 2020 to 2021.
