@@ -13,11 +13,11 @@ This document displays all screenshots of the Project.
 
 ## Dashboard & Administration
 
-### 2-Dashboard
-![Dashboard Alternative View](2-dashboard.jpg)
-
 ### Dashboard
 ![Main Dashboard](dashboard.jpg)
+
+### 2-Dashboard
+![Dashboard Alternative View](2-dashboard.jpg)
 
 ### Admins
 ![Admin Management](admins.jpg)
