@@ -52,12 +52,8 @@ This project was developed between 2020 and 2021.
 ### Product List
 ![Product List](product-list.jpg)
 
-## Sales & Transactions
 
-### Sales
-![Sales Report](sales.jpg)
-
-## Monitoring & Notifications
+## Monitoring, Notifications and Sales
 
 ### Web Remaining Monitoring
 ![Web Monitoring](web-remaining-monitoring.jpg)
