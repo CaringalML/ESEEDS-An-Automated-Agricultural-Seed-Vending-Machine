@@ -13,66 +13,66 @@ This document displays all screenshots of the Project.
 
 ## Dashboard & Administration
 
-### 2-dashboard
+### 2-Dashboard
 ![Dashboard Alternative View](2-dashboard.jpg)
 
-### dashboard
+### Dashboard
 ![Main Dashboard](dashboard.jpg)
 
-### admins
+### Admins
 ![Admin Management](admins.jpg)
 
-### login
+### Login
 ![Login Screen](login.jpg)
 
-### register
+### Register
 ![Registration Screen](register.jpg)
 
 ## Product Management
 
-### add-new-product
+### Add New Product
 ![Add New Product](add-new-product.jpg)
 
-### product-list
+### Product List
 ![Product List](product-list.jpg)
 
-### default-display
+### Default Display
 ![Default Display](default-display.jpg)
 
 ## Sales & Transactions
 
-### sales
+### Sales
 ![Sales Report](sales.jpg)
 
-### selection
+### Selection
 ![Product Selection](selection.jpg)
 
 ## Vending Operations
 
-### coin-insertion
+### Coin Insertion
 ![Coin Insertion](coin-insertion.png)
 
-### inserted-coin
+### Inserted Coin
 ![Inserted Coin Confirmation](inserted-coin.jpg)
 
-### insufficient-pay
+### Insufficient Pay
 ![Insufficient Payment](insufficient-pay.png)
 
-### dispensing
+### Dispensing
 ![Dispensing Product](dispensing.jpg)
 
-### dispensed
+### Dispensed
 ![Dispensed Product](dispensed.jpg)
 
-### processing
+### Processing
 ![Processing Transaction](processing.jpg)
 
 ## Monitoring & Notifications
 
-### web-remaining-monitoring
+### Web Remaining Monitoring
 ![Web Monitoring](web-remaining-monitoring.jpg)
 
-### mobile-SMS-notifications
+### Mobile SMS Notifications
 ![Mobile SMS Notifications](mobile-SMS-notifications.png)
 
 ---
