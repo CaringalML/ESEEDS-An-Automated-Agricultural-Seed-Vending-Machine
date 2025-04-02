@@ -7,11 +7,9 @@ The hardware features an Arduino Mega microcontroller with an Ethernet shield, a
 
 This project was developed between 2020 and 2021.
 
-# Vending Machine Management System
-
 ## Screenshots Documentation
 
-This document displays all screenshots of the Vending Machine Management System application.
+This document displays all screenshots of the Project.
 
 ## Dashboard & Administration
 
