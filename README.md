@@ -9,6 +9,9 @@ This project was developed between 2020 and 2021.
 
 ## Vending Operations
 
+### Default Display
+![Default Display](default-display.jpg)
+
 ### Coin Insertion
 ![Coin Insertion](coin-insertion.png)
 
@@ -48,9 +51,6 @@ This project was developed between 2020 and 2021.
 
 ### Product List
 ![Product List](product-list.jpg)
-
-### Default Display
-![Default Display](default-display.jpg)
 
 ## Sales & Transactions
 
