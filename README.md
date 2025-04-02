@@ -32,12 +32,6 @@ This project was developed between 2020 and 2021.
 
 ## Dashboard & Administration
 
-### Login
-![Login Screen](login.jpg)
-
-### Register
-![Registration Screen](register.jpg)
-
 ### Dashboard
 ![Main Dashboard](dashboard.jpg)
 
