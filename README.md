@@ -13,68 +13,66 @@ This document displays all screenshots of the Project.
 
 ## Dashboard & Administration
 
-### 2-dashboard (168 KB)
+### 2-dashboard
 ![Dashboard Alternative View](2-dashboard.jpg)
 
-### dashboard (132 KB)
+### dashboard
 ![Main Dashboard](dashboard.jpg)
 
-### admins (145 KB)
+### admins
 ![Admin Management](admins.jpg)
 
-### login (88 KB)
+### login
 ![Login Screen](login.jpg)
 
-### register (116 KB)
+### register
 ![Registration Screen](register.jpg)
 
 ## Product Management
 
-### add-new-product (125 KB)
+### add-new-product
 ![Add New Product](add-new-product.jpg)
 
-### product-list (143 KB)
+### product-list
 ![Product List](product-list.jpg)
 
-### default-display (49 KB)
+### default-display
 ![Default Display](default-display.jpg)
 
 ## Sales & Transactions
 
-### sales (129 KB)
+### sales
 ![Sales Report](sales.jpg)
 
-### selection (124 KB)
+### selection
 ![Product Selection](selection.jpg)
 
 ## Vending Operations
 
-### coin-insertion (1,135 KB)
+### coin-insertion
 ![Coin Insertion](coin-insertion.png)
 
-### inserted-coin (24 KB)
+### inserted-coin
 ![Inserted Coin Confirmation](inserted-coin.jpg)
 
-### insufficient-pay (211 KB)
+### insufficient-pay
 ![Insufficient Payment](insufficient-pay.png)
 
-### dispensing (115 KB)
+### dispensing
 ![Dispensing Product](dispensing.jpg)
 
-### dispensed (97 KB)
+### dispensed
 ![Dispensed Product](dispensed.jpg)
 
-### processing (50 KB)
+### processing
 ![Processing Transaction](processing.jpg)
 
 ## Monitoring & Notifications
 
-### web-remaining-monitoring (130 KB)
+### web-remaining-monitoring
 ![Web Monitoring](web-remaining-monitoring.jpg)
 
-### mobile-SMS-notifications (87 KB)
+### mobile-SMS-notifications
 ![Mobile SMS Notifications](mobile-SMS-notifications.png)
 
 ---
-
-
