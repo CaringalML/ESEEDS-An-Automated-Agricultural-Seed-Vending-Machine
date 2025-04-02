@@ -19,6 +19,9 @@ This document displays all screenshots of the Project.
 ### Inserted Coin
 ![Inserted Coin Confirmation](inserted-coin.jpg)
 
+### Selection
+![Product Selection](selection.jpg)
+
 ### Insufficient Pay
 ![Insufficient Payment](insufficient-pay.png)
 
@@ -63,9 +66,6 @@ This document displays all screenshots of the Project.
 
 ### Sales
 ![Sales Report](sales.jpg)
-
-### Selection
-![Product Selection](selection.jpg)
 
 ## Monitoring & Notifications
 
