@@ -11,6 +11,26 @@ This project was developed between 2020 and 2021.
 
 This document displays all screenshots of the Project.
 
+## Vending Operations
+
+### Coin Insertion
+![Coin Insertion](coin-insertion.png)
+
+### Inserted Coin
+![Inserted Coin Confirmation](inserted-coin.jpg)
+
+### Insufficient Pay
+![Insufficient Payment](insufficient-pay.png)
+
+### Dispensing
+![Dispensing Product](dispensing.jpg)
+
+### Dispensed
+![Dispensed Product](dispensed.jpg)
+
+### Processing
+![Processing Transaction](processing.jpg)
+
 ## Dashboard & Administration
 
 ### Dashboard
@@ -46,26 +66,6 @@ This document displays all screenshots of the Project.
 
 ### Selection
 ![Product Selection](selection.jpg)
-
-## Vending Operations
-
-### Coin Insertion
-![Coin Insertion](coin-insertion.png)
-
-### Inserted Coin
-![Inserted Coin Confirmation](inserted-coin.jpg)
-
-### Insufficient Pay
-![Insufficient Payment](insufficient-pay.png)
-
-### Dispensing
-![Dispensing Product](dispensing.jpg)
-
-### Dispensed
-![Dispensed Product](dispensed.jpg)
-
-### Processing
-![Processing Transaction](processing.jpg)
 
 ## Monitoring & Notifications
 
