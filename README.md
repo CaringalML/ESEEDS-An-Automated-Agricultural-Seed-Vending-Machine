@@ -32,6 +32,12 @@ This project was developed between 2020 and 2021.
 
 ## Dashboard & Administration
 
+### Login
+![Login Screen](login.jpg)
+
+### Register
+![Registration Screen](register.jpg)
+
 ### Dashboard
 ![Main Dashboard](dashboard.jpg)
 
@@ -40,12 +46,6 @@ This project was developed between 2020 and 2021.
 
 ### Admins
 ![Admin Management](admins.jpg)
-
-### Login
-![Login Screen](login.jpg)
-
-### Register
-![Registration Screen](register.jpg)
 
 ## Product Management
 
