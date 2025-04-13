@@ -1,11 +1,11 @@
 # ESEEDS: An Automated Agricultural Seeds Vending Machine
-This project was developed by Martin Lawrence M. Caringal in fulfillment of the requirements for the Bachelor of Science in Information Technology. It consists of both hardware and software interfaces and utilizes the principles of the Internet of Things (IoT).
+This project was developed by Martin Lawrence M. Caringal in fulfillment of the requirements for the Bachelor of Science in Information Technology. It integrates both hardware and software interfaces, leveraging the principles of the Internet of Things (IoT).
 
-The software includes a web server built with vanilla PHP for the admin user interface, which features an inventory management system for tracking products, as well as real-time monitoring of the vending machine. Additionally, SMS notifications are enabled using a GSM module, allowing remote monitoring and price updates.
+The software component includes a web server built with vanilla PHP, providing an admin user interface for inventory management and real-time monitoring of a vending machine. The system also incorporates SMS notifications through a GSM module, enabling remote monitoring and dynamic price updates.
 
-The hardware features an Arduino Mega microcontroller with an Ethernet shield, a coin changer, and an uninterruptible power supply (UPS) for continuous operation. An EEPROM is also used to store critical data, ensuring high availability and data retention even during power interruptions.
+The hardware setup features an Arduino Mega microcontroller paired with an Ethernet shield, a coin changer, and an uninterruptible power supply (UPS) to ensure continuous operation. An EEPROM module is used to store essential data, maintaining availability and integrity even during power interruptions.
 
-This project was developed between 2020 and 2021.
+This project was implemented between 2020 and 2021 and deployed in a real-world setting at a client’s agricultural store. Its implementation contributed to a 30% increase in store sales, demonstrating its practical value and impact in a commercial environment.
 
 ## Vending Operations
 
